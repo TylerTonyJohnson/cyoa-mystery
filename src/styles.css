@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "TitleFont";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/Midnight Story.otf") format("opentype");
+}
+@font-face {
+    font-family: "SubtitleFont";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/Story Telling.ttf") format("truetype");
+}
+@font-face {
+    font-family: "ParagraphFont";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/Old Story Bold.ttf") format("truetype")
+}
